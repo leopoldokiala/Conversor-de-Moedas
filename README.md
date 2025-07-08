@@ -1,16 +1,17 @@
-# conversor_de_moedas
+💱 Conversor de Moedas (Flutter)
+Aplicativo mobile feito com Flutter que permite converter valores entre Real (BRL), Dólar (USD) e Euro (EUR) em tempo real, utilizando dados da API HG Brasil. O app possui uma interface moderna com tema escuro e usa chamadas HTTP para buscar as taxas de câmbio atualizadas.
 
-A new Flutter project.
 
-## Getting Started
+### ✨ Funcionalidades:
 
-This project is a starting point for a Flutter application.
+✅ Conversão entre Real, Dólar e Euro.
 
-A few resources to get you started if this is your first Flutter project:
+🔁 Conversões reativas em qualquer direção: BRL → USD/EUR, USD → BRL/EUR, EUR → BRL/USD.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🌐 Consulta de valores em tempo real pela internet (API HG Brasil).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎯 Interface limpa e responsiva com FutureBuilder.
+
+💛 Tema escuro com destaque em amarelo (cores elegantes e contraste alto).
+
+💬 Mensagens amigáveis de carregamento e erro.
